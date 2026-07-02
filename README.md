@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on: MERN Stack projects and strengthening my DSA skills.<br><br>👯 I'm looking to collaborate on: Full-Stack Web Development and innovative MERN applications.<br><br>🤝 I'm looking for help with: Scalable backend architecture.<br><br>🌱 I'm currently learning: TypeScript, Next.js, and PostgreSQL.<br><br>💬 Ask me about: C++, DSA, JavaScript, React, Node.js, Express.js, MongoDB, and Web Development.<br><br>⚡ Fun fact: I represented IIT (BHU) Varanasi in Hockey and love solving coding problems while building real-world web applications.<br>
+🔭 I'm currently working on: MERN Stack projects and strengthening my DSA skills.<br><br>👯 I'm looking to collaborate on: Full-Stack Web Development and innovative MERN applications.<br><br>🤝 I'm looking for help with: Scalable backend architecture.<br><br>🌱 I'm currently learning: TypeScript, Next.js, and PostgreSQL.<br><br>💬 Ask me about: C++, DSA, JavaScript, React, Node.js, Express.js, MongoDB, and Web Development.<br><br>⚡ Activity in College: I represented IIT (BHU) Varanasi in Hockey and love solving coding problems while building real-world web applications.<br>
 
 
 ## 🌐 Socials:
